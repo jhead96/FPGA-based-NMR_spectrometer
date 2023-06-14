@@ -14,6 +14,8 @@
 // Revision: 
 // Revision 0.01 - File Created
 // Additional Comments: 
+		 // TO DO
+		 // - Implement genvar loop.
 //////////////////////////////////////////////////////////////////////////////////
 
 module quad_mixer (
