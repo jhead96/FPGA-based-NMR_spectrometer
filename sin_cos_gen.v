@@ -1,4 +1,10 @@
 `timescale 1ns/100ps
+/*
+TO DO
+	- Refactor variable list.
+	- Implement Generate block + loop.
+*/
+
 module sin_cos_gen(
 input clk,
 input [31:0] frq_out,
